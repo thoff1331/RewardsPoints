@@ -62,4 +62,4 @@ let purchases = new allPurchases();
 
 let viewAllPurchases = purchases.getAllPurchases();
 
-export default customerRewards;
+
